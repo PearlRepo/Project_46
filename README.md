@@ -1,2 +1,1 @@
-# Project_46
-MAKE YOUR OWN GAME - 3
+# C20-Student-boilerplate-code
